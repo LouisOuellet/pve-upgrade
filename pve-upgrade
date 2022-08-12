@@ -1,0 +1,9 @@
+#!/bin/bash
+#==============================================================================
+#TITLE:            pve-upgrade
+#DESCRIPTION:      This script was written to upgrade Proxmox to newer versions
+#AUTHOR:           Louis Ouellet
+#DATE:             2022-08-12
+#VERSION:          22.08-12
+
+source ${scriptDirectory}/vendor/basher/basher
